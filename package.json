@@ -1,0 +1,14 @@
+{
+  "name": "airbill",
+  "version": "2.0.0",
+  "description": "AirBill WiFi billing server (Node.js + SQLite)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
